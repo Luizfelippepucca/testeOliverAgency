@@ -1,0 +1,946 @@
+*{
+    padding: 0px;
+    margin: 0px;
+
+}
+.pre-header{
+    width: 100%;
+    max-width: 1000px;
+    height: 80px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #efe9e5;
+    display: block;
+    text-align: center;
+}
+.contepreheader{
+    width: 100%;
+    max-width: 900px;
+    height: 40px;
+    margin-left: auto;
+    margin-right: auto;
+    line-height: 40px;
+    font-size: 20px;
+}
+
+.cabecalho{
+    width: 100%;
+    max-width: 1920px;
+    height: 70px;
+    
+}
+.cabecalholeft{
+    width: 38%;
+    max-width: 750px;
+    height: 70px;
+    
+    float: left;
+}
+.cabecalhoright{
+    width: 62%;
+    max-width: 1000px;
+    height: 70px;
+   
+    float: left;
+}
+.cabecalhoright img{
+    width: 100%;
+    max-width: 550px;
+    height: 50px;
+    margin-top: 10px;
+}
+.container{
+    width: 100%;
+    max-width: 1000px;
+    height: 400px;
+    background-color:#ec7000;
+}
+.imgaviao{
+    width: 100%;
+    max-width: 800px;
+    height: 150px;
+    
+    margin-top: 20px;
+}
+.imgaviao img{
+    width: 100%;
+    max-width: 500px;
+    height: auto;
+    margin-left: 50px;
+    margin-top: 40px;
+}
+.conteudoaviao{
+    width: 100%;
+    max-width: 800px;
+    height: 200px;
+    margin-top: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    font-weight: bold;
+    font-size: 42px;
+    padding-left: 50px;
+}
+#container2{
+    background-color:white;
+    margin-top: 10px;
+    height: 340px;
+}
+.titulocod{
+    width: 100%;
+    max-width: 900px;
+    height: 50px;
+    color:blue;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 5px;
+    font-size: 25px;
+}
+.conteudocont2{
+    width: 100%;
+    max-width: 900px;
+    height: 300px;
+    margin-left: auto;
+    margin-right: auto;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 22px;
+    text-align: justify;
+    
+}
+.conteudocont2grey{
+    width: 100%;
+    max-width: 1000px;
+    height: 240px;
+    margin-left: auto;
+    margin-right: auto;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 22px;
+    text-align: justify;
+    padding-left: 30px;
+    background-color:rgba(239, 233,229, 0.4);
+    padding-top: 20px;
+}
+.conteudocont3{
+    max-width: 100%;
+    width: 1000px;
+    height: 110px;
+    padding-top: 10px;
+    background-color:rgba(239, 233,229, 0.4);
+}
+.imgcont3{
+    max-width: 20%;
+    width: 150px;
+    height: 100px;
+    float: left;
+    margin-left: 20px;
+    border-bottom: 2px solid #ec7000;
+    
+}
+.imgcont3 img{
+    width: 120px;
+    margin-top: 10px;
+    padding-left: 30px;
+}
+.textinhocont3{
+    max-width: 60%;
+    width: 600px;
+    height: 100px;
+    float: left;
+    border-bottom: 2px solid #ec7000;
+    line-height: 100px;
+    font-size: 18px;
+}
+.textinhocont3 strong{
+    color: blue;
+}
+.conteudocont4{
+    max-width: 100%;
+    width: 1000px;
+    height: 120px;
+    padding-top: 10px;
+    background-color:rgba(239, 233,229, 0.4);
+    padding-top: 20px;
+    float: left;   
+}
+.conteudocont4 img{
+    height: 80px;
+   
+}
+.bordagrey{
+    border-bottom: 2px solid darkgray;
+}
+.textinhocont4{
+    max-width: 60%;
+    width: 700px;
+    height: 100px;
+    float: left;
+    font-size: 18px;
+}
+.textinhocont4 strong{
+    color: blue;
+}
+.conteudocont5{
+    max-width: 100%;
+    width: 1000px;
+    height: 300px;
+    padding-top: 10px;
+    background-color:rgba(239, 233,229, 0.4);
+    
+}
+.imgcont5{
+    width: 30%;
+    max-width: 150px;
+    height: 140px;
+    float: left;
+    border-bottom: 2px solid #ec7000;
+    margin-left: 18px;
+    
+}
+.imgcont5 img{
+    width: 140px;
+   padding-top: 10px;
+   padding-left: 40px;
+  
+}
+.textinhocont5{
+    max-width: 62%;
+    width: 700px;
+    height: 140px;
+    float: left;
+    font-size: 18px;
+    padding-top: 5px;
+    border-bottom: 2px solid #ec7000;
+    font-family: Arial, Helvetica, sans-serif;
+    letter-spacing: 0px;
+}
+.textinhocont5 strong{
+    color: blue;
+}
+
+.contfinal{
+    width: 100%;
+    max-width: 1000px;
+    height: 400px;
+    padding-top: 10px;
+    
+}
+.confiraMp{
+    width: 100%;
+    max-width: 980px;
+    height: 330px;
+    margin-left: auto;
+    margin-right: auto;
+    border: 1px solid #ec7000;
+    border-radius: 20px;
+}
+.textocontfinal{
+    width: 100%;
+    max-width: 700px;
+    height: 60px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    font-size: 22px;
+    font-weight: bold;
+    color:blue;
+    margin-top: 40px;
+    letter-spacing: 2px;
+    text-shadow: 2px 1px 9px darkgray;
+}
+.imgMp{
+    width: 100%;
+    max-width: 500px;
+    height: 100px;
+     margin-top: 70px;
+     float: left;
+}
+.imgMp img{
+    width: 100%;
+    max-width: 400px;
+    margin-left: 10%;
+    
+}
+.imgMp2{
+    width: 100%;
+    max-width: 400px;
+    height: 100px;
+     margin-top: 60px;
+     float: left;
+}
+.imgMp2 img{
+    width: 100%;
+    max-width: 400px;
+}
+.rodape{
+    width: 100%;
+    max-width: 1000px;
+    height: 400px;
+    background-color:#efe9e5;
+}
+.rodapeleft{
+    width: 50%;
+    max-width:500px;
+    height: 280px;
+    background-color:#efe9e5;
+    float: left;
+}
+.controdaleft{
+    width: 100%;
+    max-width: 420px;
+    height: 50px;
+    margin-top: 20px;
+    margin-left: 50px;
+    line-height: 50px;
+    font-size: 21px;
+    color:  #ec7000;
+    font-family: Arial, Helvetica, sans-serif;
+    border-right: 2px solid  #ec7000;
+    letter-spacing: 2px;
+}
+.controdaleft2{
+    width: 100%;
+    max-width: 420px;
+    height: 180px;
+    margin-left: 50px;
+    padding-top: 30px;
+    border-right: 2px solid  #ec7000;
+    color: blue;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 21px;
+    padding-right: 5px;
+    text-align: justify;
+    letter-spacing: 2px;
+}
+.rodaperight{
+    width: 50%;
+    max-width:500px;
+    height: 280px;
+    background-color:#efe9e5;
+    float: left;
+}
+.controdaright{
+    width: 100%;
+    max-width: 200px;
+    height: 100px;
+    float: left;
+    line-height: 110px;
+    margin-top: 20px;
+    font-size: 21px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: blue;
+}
+.imagemrodaright{
+    width: 100%;
+    max-width: 150px;
+    height: 100px;
+    float: left;
+    padding-left: 10%;
+    margin-top: 20px;
+}
+.finalrodape{
+    width: 100%;
+    max-width: 840px;
+    height: 120px;
+    background-color:#efe9e5;
+    position: absolute;
+    margin-top: 280px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    align-items: center;
+    border-top: 2px solid darkgrey;
+    margin-left:2.5%;
+}
+.contfinalroda{
+    width: 30%;
+    max-width: 250px;
+    height: 100px;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: blue;
+    padding-top: 15px;
+}
+.contfinalroda2{
+    width: 30%;
+    max-width: 350px;
+    height: 100px;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: blue;
+    padding-top: 15px;
+}
+
+@media only screen and (max-width:1024px){
+    .textinhocont5{
+        font-size: 14px;
+        font-weight: bold;
+    }
+    .textinhocont4{
+        font-size: 14px;
+        font-weight: bold;
+    }
+    .textinhocont3{
+        font-size: 16px;
+        font-weight: bold;
+    }
+    .pre-header{
+        width: 100%;
+        max-width: 700px;
+    }
+    .contepreheader{
+        font-size: 18px;
+    }
+    .cabecalhoright img{
+        width: 500px;
+    }
+    .conteudoaviao p{
+        font-size: 30px;
+    }
+    .container{
+        width: 100%;
+        max-width: 780px;
+    }
+    .titulocod{
+        font-size: 20px;
+    }
+    .conteudocont2{
+        font-size: 18px;
+        height: 250px;
+        padding-left: 25px;
+        
+    }
+    .conteudocont2grey{
+        font-size: 18px;
+    }
+    .imgcont3 img{
+        width: 100px;
+    }
+    .imgcont5 img{
+        padding-top: 30px;
+        width: 120px;
+    }
+    .imgMp{
+        width: 100%;
+        max-width: 300px;
+    }
+    .imgMp2{
+        width: 100%;
+        max-width: 300px;
+        margin-top: 65px;
+        margin-left: 50px;
+    }
+    .textocontfinal{
+        font-size: 18px;
+    }
+    .finalrodape{
+        width: 100%;
+        max-width: 600px;
+        margin-left: 5%;
+    }
+    .contfinalroda{
+        font-weight: bold;
+        font-size: 16px;
+    }
+    .contfinalroda2{
+        font-weight: bold;
+        font-size: 16px;
+    }
+    .controdaleft{
+        width: 100%;
+        max-width: 320px;
+        font-size: 17px;
+        font-weight: bold;
+    }
+    .controdaleft2{
+        width: 100%;
+        max-width: 320px;
+        font-size: 17px;
+        font-weight: bold;
+        letter-spacing: 0px;
+    }
+    .controdaright{
+        font-size: 18px;
+    }
+    .imagemrodaright img{
+        width: 60px;
+    }
+}
+@media only screen and (max-width:960px){
+    .pre-header,
+    .container,
+    .cabecalho{
+        
+         max-width: 500px;
+    }
+    .cabecalhoright img{
+        width: 350px;
+    }
+    .container{
+        height: 300px;
+    }
+    .conteudocont2,
+    .conteudocont2grey,
+    .contepreheader{
+        font-size: 14px;
+    }
+    .textinhocont3,
+    .textinhocont4,
+    .textinhocont5{
+        font-size: 10px;
+        font-weight: bold;
+    }
+    .textinhocont3{
+        max-width: 70%;
+        width: 329px;
+    }
+    .imgcont3 img{
+        width: 80px;
+    }
+    .imgcont5 img{
+        width: 90px;
+    }
+    .imgcont5{
+        width: 100px;
+    }
+    
+    .cabecalholeft,
+    .cabecalhoright{
+        width: 50%;
+        max-width: 500px;
+    }
+    .conteudoaviao p{
+        font-size: 25px;
+    }
+    .titulocod{
+        font-size: 18px;
+    }
+    .textocontfinal{
+        font-size: 14px;
+    }
+    .confiraMp{
+        width: 100%;
+        max-width: 500px;
+        height: 250px;
+    }
+    .contfinal{
+        height: 300px;
+    }
+    .imgMp,
+    .imgMp2{
+        width: 100%;
+        max-width: 150px;
+    }
+    .imgMp2 img{
+        margin-left: 50px;
+    }
+    .imgMp img{
+        margin-left: 30%;
+    }
+    .controdaleft{
+        margin-left: 0px;
+        font-size: 13px;
+        line-height: 20px;
+        padding-left: 15px;
+        border-right: 1px solid #ec7000;
+    }
+    .imagemrodaright{
+        max-width: 100px;
+        height: 50px;
+    }
+    .imagemrodaright img{
+        width: 50px;
+    }
+    .controdaright{
+       
+        max-width: 100px;
+        height: 50px;
+        font-size: 12px;
+    }
+    .controdaleft2{
+        height: 130px;
+        margin-left: 0px;
+        font-size: 13px;
+        line-height: 20px;
+        padding-left: 15px;
+        border-right: 1px solid #ec7000;
+    }
+    .rodapeleft,
+    .rodaperight{
+        height: 200px;
+    }
+    .finalrodape{
+        height: 80px;
+        width: 350px;
+        margin-top: 230px;
+    }
+    .contfinalroda,
+    .contfinalroda2{
+        font-size: 12px;
+    }
+    .rodape{
+        height: 310px;
+    }
+
+}
+@media only screen and (max-width:638px){
+    .pre-header,
+    .container,
+    .cabecalho{
+        
+         max-width: 500px;
+    }
+    .cabecalhoright img{
+        width: 350px;
+    }
+    .container{
+        height: 300px;
+    }
+    .conteudocont2,
+    .conteudocont2grey,
+    .contepreheader{
+        font-size: 14px;
+    }
+    .textinhocont3,
+    .textinhocont4,
+    .textinhocont5{
+        font-size: 10px;
+        font-weight: bold;
+    }
+    .textinhocont3{
+        max-width: 70%;
+        width: 329px;
+    }
+    .imgcont3 img{
+        width: 80px;
+    }
+    .imgcont5 img{
+        width: 90px;
+    }
+    .imgcont5{
+        width: 100px;
+    }
+    
+    .cabecalholeft,
+    .cabecalhoright{
+        width: 50%;
+        max-width: 500px;
+    }
+    .conteudoaviao p{
+        font-size: 25px;
+    }
+    .titulocod{
+        font-size: 18px;
+    }
+    .textocontfinal{
+        font-size: 14px;
+    }
+    .confiraMp{
+        width: 100%;
+        max-width: 500px;
+        height: 250px;
+    }
+    .contfinal{
+        height: 300px;
+    }
+    .imgMp,
+    .imgMp2{
+        width: 100%;
+        max-width: 150px;
+    }
+    .imgMp2 img{
+        margin-left: 50px;
+    }
+    .imgMp img{
+        margin-left: 30%;
+    }
+    .controdaleft{
+        margin-left: 0px;
+        font-size: 13px;
+        line-height: 20px;
+        padding-left: 15px;
+        border-right: 1px solid #ec7000;
+    }
+    .imagemrodaright{
+        max-width: 100px;
+        height: 50px;
+    }
+    .imagemrodaright img{
+        width: 50px;
+    }
+    .controdaright{
+       
+        max-width: 100px;
+        height: 50px;
+        font-size: 12px;
+    }
+    .controdaleft2{
+        height: 130px;
+        margin-left: 0px;
+        font-size: 13px;
+        line-height: 20px;
+        padding-left: 15px;
+        border-right: 1px solid #ec7000;
+    }
+    .rodapeleft,
+    .rodaperight{
+        height: 200px;
+    }
+    .finalrodape{
+        height: 80px;
+        width: 350px;
+        margin-top: 230px;
+    }
+    .contfinalroda,
+    .contfinalroda2{
+        font-size: 12px;
+    }
+    .rodape{
+        height: 310px;
+    }
+
+}
+@media only screen and (min-width:380px) and (max-width:630px){
+    .pre-header,
+    .container{
+        max-width: 350px;
+    }
+    .contepreheader{
+        font-size: 11px;
+    }
+    .cabecalho{
+        width: 100%;
+        max-width: 350px;
+
+    }
+    .container{
+        height: 200px;
+    }
+    .cabecalholeft{
+        max-width: 80px;
+    }
+    .cabecalhoright{
+        width: 50%;
+        max-width: 150px;
+    }
+    .cabecalhoright img{
+        margin-top: 0px;
+        width: 250px;
+    }
+    .imgaviao{
+        margin-top: 0px;
+        max-width: 300px;
+    }
+    .conteudoaviao{
+        margin-top: 10px;
+        
+    }
+    .conteudoaviao p{
+        font-size: 15px;
+    }
+    .titulocod{
+        font-size: 12px;
+        height: 30px;
+    }
+    .conteudocont2,
+    .conteudocont2grey{
+        font-size: 12px;
+    }
+    .conteudocont4{
+        height: 100px;
+        padding-top: 0px;
+    }
+    #container2{
+        height: 260px;
+    }
+    .imgcont3{
+        height: 70px;
+    }
+    .imgcont3 img{
+        padding-left: 0px;
+        margin-top: 0px;
+        width: 65px;
+    }
+    .imgcont5{
+        margin-left: 0px;
+    }
+    .textinhocont3,.textinhocont4,.textinhocont5{
+        font-size: 9px;
+    }
+    .textinhocont3{
+        line-height: 20px;
+        padding-left: 10px;
+        height: 70px;
+    }
+    #altdif{
+        height: 100px;
+    }
+    .textocontfinal{
+        font-size: 11px;
+    }
+    .imgMp,.imgMp2{
+        max-width: 120px;
+    }
+    .imgMp2 .imgMp{
+        margin-left: 0px;
+    }
+    .imgMp2 img{
+        margin-left: 0px;
+        margin-top: 5px;
+    }
+    
+    .controdaleft{
+        font-size: 11px;
+        line-height: 20px;
+        padding-left: 9px;
+        
+    }
+    .controdaleft2{
+        font-size: 9px;
+        padding-top: 0px;
+        padding-left: 9px;
+
+    } 
+    .imagemrodaright{
+        max-width: 50px;
+        height: 35px;
+    }
+    .imagemrodaright img{
+        width: 35px;
+        margin-top: 27px;
+    } 
+    .finalrodape{
+        width: 300px;
+        margin-left: 0px;
+    }
+    .contfinalroda{
+        font-size: 11px;
+    }
+
+}
+
+@media only screen and (max-width:375px){
+    .pre-header,
+    .container{
+        max-width: 350px;
+    }
+    .contepreheader{
+        font-size: 11px;
+    }
+    .cabecalho{
+        width: 100%;
+        max-width: 350px;
+
+    }
+    .container{
+        height: 200px;
+    }
+    .cabecalholeft{
+        max-width: 80px;
+    }
+    .cabecalhoright{
+        width: 50%;
+        max-width: 150px;
+    }
+    .cabecalhoright img{
+        margin-top: 0px;
+        width: 250px;
+    }
+    .imgaviao{
+        margin-top: 0px;
+        max-width: 300px;
+    }
+    .conteudoaviao{
+        margin-top: 10px;
+        
+    }
+    .conteudoaviao p{
+        font-size: 15px;
+    }
+    .titulocod{
+        font-size: 12px;
+        height: 30px;
+    }
+    .conteudocont2,
+    .conteudocont2grey{
+        font-size: 12px;
+    }
+    .conteudocont4{
+        height: 100px;
+        padding-top: 0px;
+    }
+    #container2{
+        height: 260px;
+    }
+    .imgcont3{
+        height: 70px;
+    }
+    .imgcont3 img{
+        padding-left: 0px;
+        margin-top: 0px;
+        width: 65px;
+    }
+    .imgcont5{
+        margin-left: 0px;
+    }
+    .textinhocont3,.textinhocont4,.textinhocont5{
+        font-size: 9px;
+    }
+    .textinhocont3{
+        line-height: 20px;
+        padding-left: 10px;
+        height: 70px;
+    }
+    #altdif{
+        height: 100px;
+    }
+    .textocontfinal{
+        font-size: 11px;
+    }
+    .imgMp,.imgMp2{
+        max-width: 120px;
+    }
+    .imgMp2 .imgMp{
+        margin-left: 0px;
+    }
+    .imgMp2 img{
+        margin-left: 0px;
+        margin-top: 5px;
+    }
+    
+    .controdaleft{
+        font-size: 11px;
+        line-height: 20px;
+        padding-left: 9px;
+        
+    }
+    .controdaleft2{
+        font-size: 9px;
+        padding-top: 0px;
+        padding-left: 9px;
+
+    } 
+    .imagemrodaright{
+        max-width: 50px;
+        height: 35px;
+    }
+    .imagemrodaright img{
+        width: 35px;
+        margin-top: 27px;
+    } 
+    .finalrodape{
+        width: 300px;
+        margin-left: 0px;
+    }
+    .contfinalroda{
+        font-size: 11px;
+    }
+    
+}
+
+
+
+
+
+
+
